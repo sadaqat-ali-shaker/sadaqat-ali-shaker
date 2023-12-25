@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadaqat-ali-shaker 
 - 👀 I’m interested in ... Programming, studing algorithms 
-- 🌱 I’m currently learning ... Data Structures and 
+- 🌱 I’m currently learning ... Data Structures
 - 💞️ I’m looking to collaborate on ...I'd love to collaborate on projects that reinforce these concepts. I'm looking to collaborate on projects involving Python and machine learning.
 - 📫 How to reach me ...
   linkedin: https://www.linkedin.com/in/sadaqatalishaker/
