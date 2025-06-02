@@ -30,7 +30,8 @@ Open-source or academic projects related to any of the above fields
 
 📫 How to Reach Me:
 
-🌐 LinkedIn: sadaqatalishaker
+🌐 [LinkedIn: sadaqatalishaker](https://www.linkedin.com/in/sadaqatalishaker)
+
 
 📧 Email: sadaqatalishakir786@gmail.com
 
