@@ -1,10 +1,36 @@
 👋 Hi, I’m @sadaqat-ali-shaker
-💡 I’m passionate about programming, especially in Python, and I love solving problems using algorithms and data structures.
-📚 I’m currently learning Data Structures & Algorithms, and diving deeper into Machine Learning and Software Development with .NET.
-🚀 I’m interested in building real-world projects involving Python, C#, machine learning, and .NET technologies.
-🤝 I’m looking to collaborate on projects that reinforce learning and involve ML models, backend systems, or open-source contributions.
-📫 How to reach me:
 
-LinkedIn
+💡 I’m passionate about programming, solving problems, and building efficient systems.
+
+🎓 What I've Learned:
+
+✅ Data Structures & Algorithms
+
+✅ Computer Networks (IP addressing, subnetting, RIP, OSPF, Packet Tracer)
+
+✅ Operating Systems (processes, scheduling, kernel compilation, shell scripting)
+
+✅ Databases (SQL, ER diagrams, normalization)
+
+✅ Software Design & Analysis (UML, SOLID principles, design patterns)
+
+📚 Currently Learning:
+
+🤖 Machine Learning (Python-based, scikit-learn, real-world models)
+
+💻 .NET Development (C#)
+
+🚀 Looking to Collaborate On:
+
+Python or C# projects that apply ML, networking, or backend logic
+
+Real-world applications that strengthen OS and software design concepts
+
+Open-source or academic projects related to any of the above fields
+
+📫 How to Reach Me:
+
+🌐 LinkedIn: sadaqatalishaker
 
 📧 Email: sadaqatalishakir786@gmail.com
+
