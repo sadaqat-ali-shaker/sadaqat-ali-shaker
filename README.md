@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sadaqat Ali Shaker</h1>
 
 <p align="center">
-Computer Science Undergraduate | AI & Computer Vision | Data & Backend Engineering
+Computer Science Undergraduate | AI Research | Computer Vision | Data Engineering
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@ Researcher working on <b>Bone Fracture Detection using Computer Vision</b>
 # 👨‍💻 About Me
 
 • Computer Science student at **FAST-NUCES**  
-• Passionate about **AI, Computer Vision, Data Engineering and Backend Systems**  
-• Currently working on **Medical Imaging Research (Bone Fracture Detection)**  
-• Experience building **Machine Learning + Real-World AI Systems**  
+• Interested in **Artificial Intelligence, Computer Vision, Data Engineering, and Distributed Systems**  
+• Currently researching **Bone Fracture Detection using Medical Imaging**  
+• Experience building **Machine Learning and Computer Vision based systems**
 
 My interests include:
 
@@ -24,6 +24,7 @@ My interests include:
 - Data Engineering
 - Distributed Systems
 - Backend Engineering
+- Scientific Research
 
 ---
 
@@ -42,6 +43,17 @@ Areas involved:
 
 ---
 
+# 🔍 Research Interests
+
+- Computer Vision
+- Medical Image Analysis
+- Remote Sensing & LiDAR
+- Machine Learning
+- Data Engineering
+- Distributed Systems
+
+---
+
 # 🧠 Core Computer Science Knowledge
 
 - Data Structures & Algorithms
@@ -52,6 +64,23 @@ Areas involved:
 - Operating Systems
 - Computer Organization & Assembly Language (COAL)
 - NASM Assembly Programming
+- Quantum Computing
+
+---
+
+# 🎓 Academic Coursework
+
+During my Computer Science degree I have studied:
+
+- Data Structures and Algorithms
+- Object Oriented Programming
+- Software Engineering
+- Software Design and Analysis
+- Database Systems
+- Operating Systems
+- Computer Networks
+- Computer Organization & Assembly Language
+- Quantum Computing
 
 ---
 
@@ -72,6 +101,8 @@ Languages I use:
 
 # 🧠 AI / Machine Learning / Computer Vision
 
+Domains:
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
@@ -80,7 +111,7 @@ Languages I use:
 - LiDAR Data Processing
 - Remote Sensing
 
-Libraries / Tools
+Libraries / Tools:
 
 - OpenCV
 - PyTorch
@@ -100,6 +131,7 @@ Technologies:
 - Airflow
 - ETL Pipelines
 - Data Processing Pipelines
+- Data Analytics
 
 ---
 
@@ -113,9 +145,21 @@ Databases experience with:
 
 - MySQL
 - PostgreSQL
+- Oracle Database
 - Neo4j (Graph Database)
 - SQL
 - Data Modeling
+
+---
+
+# 🌐 Networking & Systems
+
+Tools and technologies used:
+
+- Cisco Packet Tracer
+- Wireshark
+- Computer Network Simulation
+- Network Protocol Analysis
 
 ---
 
@@ -128,7 +172,7 @@ Databases experience with:
 - Linux
 - Git & GitHub
 - Docker
-- Distributed Computing
+- Distributed Systems
 
 ---
 
@@ -145,8 +189,7 @@ Technologies:
 - Computer Vision
 - Remote Sensing
 
-Repository
-
+Repository  
 https://github.com/sadaqat-ali-shaker/AI-Driven-LiDAR-Forest-Monitoring-and-Biomass-Assessment
 
 ---
@@ -155,14 +198,13 @@ https://github.com/sadaqat-ali-shaker/AI-Driven-LiDAR-Forest-Monitoring-and-Biom
 
 Deep learning system that automatically solves CAPTCHA images.
 
-Technologies
+Technologies:
 
 - Python
 - CNN
 - Image Processing
 
-Repository
-
+Repository  
 https://github.com/sadaqat-ali-shaker/captcha-solver
 
 ---
@@ -171,33 +213,56 @@ https://github.com/sadaqat-ali-shaker/captcha-solver
 
 Machine learning system to detect forged signatures.
 
-Technologies
+Technologies:
 
 - Computer Vision
 - Image Processing
 - Machine Learning
 
-Repository
-
+Repository  
 https://github.com/sadaqat-ali-shaker/Fake-signaure-Detection
 
 ---
 
-## 📊 GitHub Stats
+# 🧪 Academic Projects
+
+### Hostel Management System
+
+Object-oriented system for managing hostel rooms, student records, and allocations.
+
+Technologies:
+
+- C++
+- Object Oriented Programming
+
+---
+
+### Attendance Management System (Oracle Database)
+
+Database system to manage student attendance records.
+
+Technologies:
+
+- Oracle Database
+- SQL
+- Database Design
+- ER Modeling
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sadaqat-ali-shaker&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaqat-ali-shaker&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadaqat-ali-shaker&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaqat-ali-shaker&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadaqat-ali-shaker&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadaqat-ali-shaker&theme=tokyo-night&hide_border=true"/>
+
 ---
 
 # 📫 Contact
@@ -206,4 +271,4 @@ LinkedIn
 https://www.linkedin.com/in/sadaqatalishaker
 
 Email  
-sadaqatalishakir786@gmail.com
+sadaqat-ali-shakir786@gmail.com
